@@ -222,58 +222,64 @@ section.fact-tmpl {
   section.fact-tmpl h2 {
     margin-top: 0px;
     margin-bottom: 40px; }
+  /* line 278, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+  section.fact-tmpl p:last-child {
+    margin-bottom: 30px; }
 
-/* line 282, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 285, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 section.highlights-tmpl .highlights-content h2 {
   margin-top: 0px;
   margin-bottom: 40px; }
-/* line 288, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 289, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+section.highlights-tmpl .highlights-content p:last-child {
+  margin-bottom: 40px; }
+/* line 294, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 section.highlights-tmpl .highlights-icons > .row {
   margin-bottom: 20px; }
-/* line 293, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 299, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 section.highlights-tmpl .highlights-text h2, section.highlights-tmpl .highlights-text h3, section.highlights-tmpl .highlights-text h4 {
   margin: 5px 0;
   font-size: 1.3em; }
-/* line 297, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 303, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 section.highlights-tmpl .highlights-text p {
   color: #888888;
   font-size: 1.1em; }
-/* line 302, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 308, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 section.highlights-tmpl .highlights-icon {
   text-align: center; }
-  /* line 304, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 310, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
   section.highlights-tmpl .highlights-icon i {
     font-size: 2em;
     margin-top: 5px;
     color: #16DB93; }
 
-/* line 312, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 318, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 section.testimonials {
   background: #fff; }
-  /* line 314, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 320, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
   section.testimonials header {
     text-align: center; }
-  /* line 317, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 323, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
   section.testimonials .testimonial {
     color: #e9e9e9; }
-    /* line 319, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+    /* line 325, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
     section.testimonials .testimonial.is-selected {
       color: #555; }
 
-/* line 326, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 332, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .owl-buttons {
   position: static; }
 
-/* line 330, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 336, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .owl-carousel.white .owl-controls .owl-page span {
   background: none repeat scroll 0 0 #fff; }
 
-/* line 334, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 340, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .owl-carousel.white .owl-controls .owl-page.active span {
   background: transparent;
   border: 2px solid #fff; }
 
-/* line 342, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 348, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .nf-carousel-theme .owl-controls .owl-pagination {
   position: absolute;
   z-index: 2;
@@ -282,7 +288,7 @@ section.testimonials {
   width: 100%;
   margin-top: 15px; }
 
-/* line 351, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 357, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .nf-carousel-theme .owl-controls .owl-buttons .owl-prev,
 .nf-carousel-theme .owl-controls .owl-buttons .owl-next {
   width: 31px;
@@ -291,7 +297,7 @@ section.testimonials {
   font-size: 16px;
   margin-top: -15px; }
 
-/* line 360, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 366, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-prev,
 .content-carousel .owl-controls .owl-buttons .owl-next,
 .image-slider .owl-controls .owl-buttons .owl-prev,
@@ -312,7 +318,7 @@ section.testimonials {
   position: absolute;
   text-align: center; }
 
-/* line 381, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 387, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-prev:hover,
 .content-carousel .owl-controls .owl-buttons .owl-next:hover,
 .image-slider .owl-controls .owl-buttons .owl-prev:hover,
@@ -324,26 +330,26 @@ section.testimonials {
   /*background: #fff;*/
   color: #e6ae49; }
 
-/* line 393, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 399, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-next,
 .image-slider .owl-controls .owl-buttons .owl-next,
 .fullwidth-slider .owl-controls .owl-buttons .owl-next,
 .nf-carousel-theme .owl-controls .owl-buttons .owl-next {
   right: 0; }
 
-/* line 400, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 406, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .nf-carousel-theme .owl-controls .owl-buttons .owl-prev {
   left: 0;
   margin-left: -51px;
   opacity: 0; }
 
-/* line 406, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 412, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .nf-carousel-theme .owl-controls .owl-buttons .owl-next {
   right: 0;
   margin-right: -51px;
   opacity: 0; }
 
-/* line 412, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 418, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel:hover .owl-controls .owl-buttons .owl-prev,
 .content-carousel:hover .owl-controls .owl-buttons .owl-next,
 .image-slider:hover .owl-controls .owl-buttons .owl-prev,
@@ -359,7 +365,7 @@ section.testimonials {
 /* -------------------------------------*/
 /* Singel Item slider (Images & Contant Slider) ---------*/
 /* -------------------------------------*/
-/* line 428, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 434, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-pagination,
 .image-slider .owl-controls .owl-pagination,
 .fullwidth-slider .owl-controls .owl-pagination,
@@ -372,7 +378,7 @@ section.testimonials {
   text-align: center;
   width: 100%; }
 
-/* line 441, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 447, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-prev,
 .content-carousel .owl-controls .owl-buttons .owl-next,
 .image-slider .owl-controls .owl-buttons .owl-prev,
@@ -385,7 +391,7 @@ section.testimonials {
   font-size: 21px;
   margin-top: -25px; }
 
-/* line 454, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 460, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-prev,
 .image-slider .owl-controls .owl-buttons .owl-prev,
 .fullwidth-slider .owl-controls .owl-buttons .owl-prev {
@@ -393,7 +399,7 @@ section.testimonials {
   margin-left: -51px;
   opacity: 0; }
 
-/* line 462, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 468, /Users/he9lin/Projects/mobile-sites/vanilla-landing/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-next,
 .image-slider .owl-controls .owl-buttons .owl-next,
 .fullwidth-slider .owl-controls .owl-buttons .owl-next {
